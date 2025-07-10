@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdOutlineDesignServices",
+    "title": "UI/UX Design",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+  },
+  {
+    "icon": "MdOutlineCampaign",
+    "title": "Digital Marketing",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+  },
+  {
+    "icon": "MdOutlineWeb",
+    "title": "Web Development",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+  }
+] 

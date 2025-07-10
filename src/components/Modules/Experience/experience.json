@@ -1,0 +1,37 @@
+[
+  {
+    "name": "UI/UX Designer",
+    "startDate": "2015",
+    "endDate": "2018",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+    "percent": 70
+  },
+  {
+    "name": "Web Designer",
+    "startDate": "2015",
+    "endDate": "2018",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+    "percent": 80
+  },
+  {
+    "name": "Web Developer",
+    "startDate": "2018",
+    "endDate": null,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+    "percent": 60
+  },
+  {
+    "name": "Graphic Designer",
+    "startDate": "2015",
+    "endDate": "2018",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+    "percent": 65
+  },
+  {
+    "name": "Marketing",
+    "startDate": "2015",
+    "endDate": null,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+    "percent": 55
+  }
+] 

@@ -1,0 +1,26 @@
+[
+  {
+    "image": "https://i.ibb.co/6bQ6Q0W/oop-benefits.png",
+    "title": "Why Learn OOP? Key Benefits of Object-Oriented Programming",
+    "author": "Sopnil Ali",
+    "date": "June 11, 2025",
+    "excerpt": "OOP কি আসলে ? আপনি ওয়েব ডেভেলপমেন্ট এ OOP এর নাম তো অবশ্যই শুনেছেন। এখন কথা হচ্ছে আসলে oop দিয়ে কি হয়, এর সুবিধা গুলো কি কি ? চলা দেখা যাক...",
+    "link": "#"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=800&q=80",
+    "title": "How to Start Freelancing in 2025",
+    "author": "Jane Doe",
+    "date": "May 20, 2025",
+    "excerpt": "Freelancing is a great way to earn money and gain experience. Here are the steps to get started...",
+    "link": "#"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+    "title": "Top 10 UI/UX Trends for Modern Websites",
+    "author": "John Smith",
+    "date": "April 5, 2025",
+    "excerpt": "Stay ahead in web design by following these top UI/UX trends for 2025...",
+    "link": "#"
+  }
+] 
