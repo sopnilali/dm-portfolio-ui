@@ -8,6 +8,47 @@ import Experience from '@/components/Modules/Experience'
 import Testimonials from '@/components/Modules/Tesimonials'
 import Portfolio from '@/components/Modules/Portfolio'
 
+
+
+export const metadata = {
+  title: 'Welcome to Portfolio | Tohidul Islam',
+  description: 'Welcome to Portfolio | Tohidul Islam',
+  keywords: ['Tohidul Islam Sobuj', 'Tohidul Islam Sobuj Portfolio', 'Tohidul Islam Sobuj Home', 'Tohidul Islam Sobuj About', 'Tohidul Islam Sobuj Services', 'Tohidul Islam Sobuj Experience', 'Tohidul Islam Sobuj Portfolio', 'Tohidul Islam Sobuj Testimonials'],
+  openGraph: {
+    title: 'Welcome to Portfolio | Tohidul Islam',
+    description: 'Home page of Tohidul Islam Sobuj',
+    url: 'https://tohidulislamui.vercel.app',
+    images: 'https://res.cloudinary.com/dbebxi5vg/image/upload/v1752129495/documents/n22c72jeoyfiajucyut7.jpg',
+  },
+  twitter: {
+    title: 'Welcome to Portfolio | Tohidul Islam ',
+    description: 'Portfolio Dashboard | Tohidul Islam',
+    images: 'https://res.cloudinary.com/dbebxi5vg/image/upload/v1752129495/documents/n22c72jeoyfiajucyut7.jpg',
+  },
+  icons: {
+    icon: '/favicon.ico',
+  },
+  robots: {
+    index: false,
+    follow: false,
+  },
+  viewport: {
+    width: 'device-width',
+    initialScale: 1,
+    maximumScale: 1,
+    userScalable: false,
+  },
+  themeColor: '#000000',
+  appleWebApp: {
+    title: 'Portfolio Dashboard | Tohidul Islam',
+    statusBarStyle: 'black-translucent',
+  },
+  appleWebAppStatusBarStyle: 'black-translucent',
+  alternates: {
+    canonical: 'https://tohidulislamui.vercel.app',
+  }
+}
+
 const Home = () => {
   return (
     <div>
