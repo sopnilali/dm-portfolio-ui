@@ -1,5 +1,6 @@
 import BlogDetails from '@/components/Modules/Blog/BlogDetails'
 import { getAllBlogs, getBlogById } from '@/services/Blog';
+import { Metadata } from 'next';
 import React from 'react'
 
 export const metadata = {
@@ -28,10 +29,12 @@ export const metadata = {
 
 
 
-const BlogDetailsPage = async ({ params }: { params: { id: string } }) => {
+
+const BlogDetailsPage = async ({ params } : { params: Promise<{ id: string }> }) => {
 
   const { id } = await params;
   const blog = await getBlogById(id);
+
   metadata.title = blog.data.title;
   metadata.description = blog.data.excerpt;
   metadata.keywords = [blog.data.title, 'Blog', 'Blog Details'];
