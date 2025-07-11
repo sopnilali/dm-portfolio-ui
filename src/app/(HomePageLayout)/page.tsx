@@ -7,13 +7,14 @@ import Services from '@/components/Modules/Services'
 import Experience from '@/components/Modules/Experience'
 import Testimonials from '@/components/Modules/Tesimonials'
 import Portfolio from '@/components/Modules/Portfolio'
+import Skills from '@/components/Modules/Skills'
 
 
 
 export const metadata = {
   title: 'Welcome to Portfolio | Tohidul Islam',
   description: 'Welcome to Portfolio | Tohidul Islam',
-  keywords: ['Tohidul Islam Sobuj', 'Tohidul Islam Sobuj Portfolio', 'Tohidul Islam Sobuj Home', 'Tohidul Islam Sobuj About', 'Tohidul Islam Sobuj Services', 'Tohidul Islam Sobuj Experience', 'Tohidul Islam Sobuj Portfolio', 'Tohidul Islam Sobuj Testimonials'],
+  keywords: ['Tohidul Islam','Sobuj Ali', 'Tohidul Islam Sobuj Portfolio', 'Tohidul Islam Sobuj Home', 'Tohidul Islam Sobuj About', 'Tohidul Islam Sobuj Services', 'Tohidul Islam Sobuj Experience', 'Tohidul Islam Sobuj Portfolio', 'Tohidul Islam Sobuj Testimonials'],
   openGraph: {
     title: 'Welcome to Portfolio | Tohidul Islam',
     description: 'Home page of Tohidul Islam Sobuj',
@@ -29,8 +30,8 @@ export const metadata = {
     icon: '/favicon.ico',
   },
   robots: {
-    index: false,
-    follow: false,
+    index: true,
+    follow: true,
   },
   viewport: {
     width: 'device-width',
@@ -59,6 +60,7 @@ const Home = () => {
       <Experience />
       <Portfolio/>
       <Testimonials/>
+      <Skills />
     </div>
   )
 }

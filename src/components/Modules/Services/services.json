@@ -2,16 +2,16 @@
   {
     "icon": "MdOutlineDesignServices",
     "title": "UI/UX Design",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+    "description": "UI/UX Design is a highly in-demand profession within the tech and digital industry. It focuses on how users interact with products and how those products look and feel."
   },
   {
     "icon": "MdOutlineCampaign",
     "title": "Digital Marketing",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+    "description": "A Digital Marketing–based profession involves using online platforms and tools to promote brands, products, or services. It requires a mix of creative, analytical, and technical skills to drive online engagement, generate leads, and increase sales or brand visibility."
   },
   {
     "icon": "MdOutlineWeb",
     "title": "Web Development",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+    "description": "Web Development is a highly in-demand profession within the tech and digital industry. It focuses on how users interact with products and how those products look and feel."
   }
 ] 

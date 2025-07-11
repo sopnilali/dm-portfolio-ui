@@ -1,9 +1,27 @@
 import About from '@/components/Modules/About'
 import React from 'react'
 
+export const metadata = {
+  title: 'About',
+  description: 'About',
+  keywords: ['About', 'About', 'About'],
+  openGraph: {
+    title: 'About',
+    description: 'About'
+  },
+  alternates: {
+    canonical: '/about',
+  },
+  robots: {
+    index: true,
+    follow: true,
+  },
+}
+
+
 const AboutPages = () => {
   return (
-    <div className='container mx-auto px-4 sm:px-4 lg:px-4'>
+    <div className=' '>
       <About />
     </div>
   )
